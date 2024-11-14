@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=jacobsinclair&label=Profile%20Views&color=2&icon=5&pretty=false" />
+</a>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
